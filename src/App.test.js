@@ -8,4 +8,3 @@ test('renders learn react link', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
-
